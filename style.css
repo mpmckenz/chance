@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background-color: lightslategray;
+    color: gainsboro;
+}
+
+hr {
+    width: 100%;
+}
+
+button {
+    margin: 10px;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.title {
+    font-size: 5em;
+}
+
+.inst {
+    font-size: 2em;
+}
+
+#input-box {
+    margin: 0 auto;
+    width: 30%;
+    height: 30px;
+    font-size: 25px;
+}
+
+#win-box {
+    height: 500px;
+    width: 500px;
+    background-size: 100% 100%;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    padding: 40px;
+}
